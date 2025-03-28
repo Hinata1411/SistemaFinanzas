@@ -1,6 +1,6 @@
-# Sistema de Finanzas para Pizzerías 🍕💰
+# Sistema de Finanzas 💰
 
-Este sistema permite gestionar las ventas y movimientos financieros de seis sucursales de pizzerías. 
+Este sistema permite gestionar las ventas y movimientos financieros de seis sucursales. 
 Incluye funcionalidades como:
 ✅ Registro de ventas diarias  
 ✅ Manejo de pagos y depósitos  
